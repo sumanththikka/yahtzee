@@ -1,0 +1,40 @@
+Notes:
+------
+1. Note that number of rounds is set to 2 for faster completion. Can be changed to any number by changing TOTAL_ROUNDS in yahtzee.rb
+2. Basic version of multi player game is implemented. No bonuses are implemented
+3. All basic game rules are adopted
+
+
+To play the game:
+-----------------
+1. Go to game folder
+2. run 'ruby start_yahtzee.rb'
+3. Give number of players upon asking
+4. Follow the instructions/guide lines as the game progresses
+5. Enjoy the game
+
+
+To run test cases:
+------------------
+1. Go to game folder
+2. install rspec for running test cases
+3. Run rspec spec for running test cases
+
+To be added:
+------------
+1. Bonus scoring implementation
+2. Better display of scores
+3. More interactive messaging
+4. On demand details of scores
+5. More test coverage
+6. UI display
+7. Multi player game
+
+Which javascript framework will you use to give UI?
+- Angular
+Why Angular?
+- Because of its two way binding of data. As soon as I calcualte the possible scores it can be displayed in all possible
+scores
+If UI is used to display the game, where would you store the scores for better results
+- It should be stored both in Javascript and
+
