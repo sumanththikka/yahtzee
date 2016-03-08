@@ -29,12 +29,3 @@ To be added:
 5. More test coverage
 6. UI display
 7. Multi player game
-
-Which javascript framework will you use to give UI?
-- Angular
-Why Angular?
-- Because of its two way binding of data. As soon as I calcualte the possible scores it can be displayed in all possible
-scores
-If UI is used to display the game, where would you store the scores for better results
-- It should be stored both in Javascript and
-
